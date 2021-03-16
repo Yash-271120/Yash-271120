@@ -1,7 +1,21 @@
-### Hi there 👋
+## Introduction 👋
+<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
-<!--
-**Yash-271120/Yash-271120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Yash-271120)
+
+Hi, I am Yash currently pursing my Btech degree From Indian Institute of Technology(BHU), Varanasi. I am interested in and mostly do Web Development and also do some competitive programming. I use javascript as my primary langauage for making web applications. I have some experience working with nodejs and expressjs
+
+## 📫 Connect with me
+### For Hiring 
+✉️ [Email](mailto:yashpatil.yp2711@gmail.com) | 💬[LinkedIn](https://www.linkedin.com/in/yash-patil-3a163519b) | [CodeChef](https://www.codechef.com/users/yash_271120)
+
+### For Getting a Coffee
+[Instagram](https://www.instagram.com/_.ya.sh__) | [LinkedIn](https://www.linkedin.com/in/yash-patil-3a163519b)
+
+## Collaboration
+I am willing to collaborate on any projects or hackathons where I can learn and work on new technologies.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 My Open Source
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=Yash-271120&show_icons=true)
