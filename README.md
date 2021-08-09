@@ -4,7 +4,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Yash-271120)
 
-Hi, I am Yash currently pursing my Btech degree From Indian Institute of Technology(BHU), Varanasi. My interest lies in Web Development. I use javascript as my primary langauage for making web applications. I have some experience working with nodejs, expressjs, reactjs and mongoDB. I also do a bit of competitive programming.
+Hi, I am Yash, currently pursuing my Btech degree From Indian Institute of Technology(BHU), Varanasi. My interest lies in Web Development. I use javascript as my primary language for making web applications. I have some experience working with nodejs, expressjs, reactjs, and MongoDB. I also do a bit of competitive programming.
 
 ## 📫 Connect with me
 ### For Hiring 
