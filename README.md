@@ -3,15 +3,15 @@
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='right' src='https://octodex.github.com/images/catstello.png' width='200"'>
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Yash-271120)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
-Hi, I am Yash, currently pursuing my Btech degree From Indian Institute of Technology(BHU), Varanasi. My interest lies in Web Development. I use javascript as my primary language for making web applications. I have some experience working with nodejs, expressjs, reactjs, and MongoDB. I also do a bit of competitive programming.Peace!!
+Hey there! I'm a coding enthusiast who primarily dabbles in TypeScript but also loves to tinker with Python, Go, Rust, and C++. With a degree from IIT BHU and 1.5 years of professional experience under my belt, I've developed a knack for creating innovative solutions from scratch. My passion lies in system design and the exciting world of web3, with a special focus on Solana. Right now, I'm diving deep into a few projects on Solana, and I can't wait to see where this journey takes me. When I'm not coding, you'll find me dreaming up my next big idea or exploring new tech frontiers. Let's create something amazing together! 🚀
 
 ## 📫 Connect with me
 
 ### For Hiring
 
-✉️ [Email](mailto:yashpatil.yp2711@gmail.com) | 💬[LinkedIn](https://www.linkedin.com/in/yash-patil-3a163519b) | [CodeChef](https://www.codechef.com/users/yash_271120)
+✉️ [Email](mailto:yashpatil.yp2711@gmail.com) | 💬[LinkedIn](https://www.linkedin.com/in/yash-patil-3a163519b)
 
 ### For Getting a Coffee
 
